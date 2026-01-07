@@ -1,0 +1,7 @@
+{
+  "name": "Urban Mobi Alert",
+  "description": "A smart urban mobility platform that provides real-time alerts, risk analysis, and mobility planning to optimize daily commutes and improve quality of life.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
